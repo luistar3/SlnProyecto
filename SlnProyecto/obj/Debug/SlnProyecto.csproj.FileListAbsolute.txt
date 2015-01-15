@@ -1,1 +1,10 @@
 E:\Proyectos\Visual Studio\SlnProyecto\SlnProyecto\bin\Debug\SlnProyecto.exe.config
+C:\Users\home\Documents\GitHub\slnprogramcion1\SlnProyecto\SlnProyecto\bin\Debug\SlnProyecto.exe.config
+C:\Users\home\Documents\GitHub\slnprogramcion1\SlnProyecto\SlnProyecto\bin\Debug\SlnProyecto.exe
+C:\Users\home\Documents\GitHub\slnprogramcion1\SlnProyecto\SlnProyecto\bin\Debug\SlnProyecto.pdb
+C:\Users\home\Documents\GitHub\slnprogramcion1\SlnProyecto\SlnProyecto\obj\Debug\SlnProyecto.csprojResolveAssemblyReference.cache
+C:\Users\home\Documents\GitHub\slnprogramcion1\SlnProyecto\SlnProyecto\obj\Debug\SlnProyecto.FrmPrincipal.resources
+C:\Users\home\Documents\GitHub\slnprogramcion1\SlnProyecto\SlnProyecto\obj\Debug\SlnProyecto.Properties.Resources.resources
+C:\Users\home\Documents\GitHub\slnprogramcion1\SlnProyecto\SlnProyecto\obj\Debug\SlnProyecto.csproj.GenerateResource.Cache
+C:\Users\home\Documents\GitHub\slnprogramcion1\SlnProyecto\SlnProyecto\obj\Debug\SlnProyecto.exe
+C:\Users\home\Documents\GitHub\slnprogramcion1\SlnProyecto\SlnProyecto\obj\Debug\SlnProyecto.pdb
