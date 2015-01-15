@@ -8,3 +8,4 @@ C:\Users\home\Documents\GitHub\slnprogramcion1\SlnProyecto\SlnProyecto\obj\Debug
 C:\Users\home\Documents\GitHub\slnprogramcion1\SlnProyecto\SlnProyecto\obj\Debug\SlnProyecto.csproj.GenerateResource.Cache
 C:\Users\home\Documents\GitHub\slnprogramcion1\SlnProyecto\SlnProyecto\obj\Debug\SlnProyecto.exe
 C:\Users\home\Documents\GitHub\slnprogramcion1\SlnProyecto\SlnProyecto\obj\Debug\SlnProyecto.pdb
+C:\Users\home\Documents\GitHub\slnprogramcion1\SlnProyecto\SlnProyecto\obj\Debug\SlnProyecto.FrmRegistrar.resources
